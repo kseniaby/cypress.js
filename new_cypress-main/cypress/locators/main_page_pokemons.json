@@ -1,0 +1,3 @@
+{
+  "my_trainer_page": "#root > div > header > div > div.header__container > button.header__id"
+}

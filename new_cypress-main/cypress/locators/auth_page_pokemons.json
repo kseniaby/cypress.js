@@ -1,0 +1,5 @@
+{
+  "login_input": "#root > div > main:nth-child(1) > section > div.login__content > form > div:nth-child(1) > input",
+  "password_input": "#password",
+  "login_btn": "#root > div > main:nth-child(1) > section > div.login__content > form > button"
+}

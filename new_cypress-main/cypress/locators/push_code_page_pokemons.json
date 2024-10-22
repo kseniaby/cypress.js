@@ -1,0 +1,4 @@
+{
+  "push_input": "#cardnumber",
+  "send_btn": ".payment__submit-button"
+}
